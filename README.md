@@ -2,7 +2,7 @@
 
 ## About Me 😄
 
-Hi, I'm Nomi! I'm a graduate from Lund University in Sweden with a newly developed interest in web development. My journey in tech srtaed with AI, data analysis and machine learning. I'm always excited to learn new technologies and collaborate on exciting projects.
+Hi, I'm Nomi! I'm a graduate from Lund University in Sweden with a newly developed interest in web development. My journey in tech started with AI, data analysis and machine learning. I'm always excited to learn new technologies and collaborate on exciting projects.
 
 
 - 🌱 I’m currently exploring **Machine Learning** and **Data Visualization**.
